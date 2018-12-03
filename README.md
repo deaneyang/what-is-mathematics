@@ -16,9 +16,9 @@
 
 1.             Comparison to carpentry
 
-    a. Using mathematics to create new knowledge that lies outside mathematics is analogous to a carpenter using their tools and skills to build beautiful and often functional objects.
+    1. Using mathematics to create new knowledge that lies outside mathematics is analogous to a carpenter using their tools and skills to build beautiful and often functional objects.
 
-    b.                Using mathematics to create new mathematical knowledge is analogous to a carpenter using their tools and skills to build new tools and skills.
+    1. Using mathematics to create new mathematical knowledge is analogous to a carpenter using their tools and skills to build new tools and skills.
 
 1.             The origin of the mathematical universe is no less mysterious than the origin of the physical one.
 
