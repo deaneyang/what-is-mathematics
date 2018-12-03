@@ -10,8 +10,10 @@
 
 1.            It is possible for someone else to give you an incomplete description of a mathematical thought, from which you can reconstruct a complete description of the exact same mathematical thought.
 
-            Mathematics uses itself to build new mathematics.
+1.            Mathematics uses itself to build new mathematics.
+
 1.             Mathematics is immutable. Old mathematics is never destroyed unless it was wrong in the first place. Only new knowledge is added.
+
 1.             Comparison to carpentry
 
     a. Using mathematics to create new knowledge that lies outside mathematics is analogous to a carpenter using their tools and skills to build beautiful and often functional objects.
@@ -20,7 +22,7 @@
 
 1.             The origin of the mathematical universe is no less mysterious than the origin of the physical one.
 
-## A Concrete Description of Mathematics</h5>
+## A Concrete Description of Mathematics
 
 1.            Doing mathematics is messy, inelegant, and often involves neither logical nor abstract.
 
