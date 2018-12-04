@@ -6,9 +6,7 @@
 
 2. Mathematics is done within an invisible abstract universe that exists only within our minds.
 
-3. Each of us sees only part of this universe and, by necessity, constructs our own vision of this.
-
-4. There is only a single universe. Each of us sees different parts with our own perspectives, but they all fit together in a logically consistent way.
+4. There is only a single universe. Each of us, by necessity, has a unique perspective, but they all fit together in a logically consistent way.
 
 5. It is possible for someone else to give you an incomplete description of a mathematical thought, from which you can reconstruct a complete description of the exact same mathematical thought.
 
