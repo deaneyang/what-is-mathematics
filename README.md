@@ -1,33 +1,28 @@
 # Thoughts About Mathematics
       
-## An Abstract Description of Mathematics
+## What is Mathematics?
         
 1. Mathematics is the craft of creating new knowledge from old using deductive logic and abstraction.
 
-1. Mathematics is done within an invisible abstract universe that exists only within our minds.
+2. Mathematics is done within an invisible abstract universe that exists only within our minds.
 
-1. Each of us, by necessity, constructs our own vision of the mathematical universe, and yet we all see the same universe.
+3. Each of us sees only part of this universe and, by necessity, constructs our own vision of this.
 
-1. It is possible for someone else to give you an incomplete description of a mathematical thought, from which you can reconstruct a complete description of the exact same mathematical thought.
+4. There is only a single universe. Each of us sees different parts with our own perspectives, but they all fit together in a logically consistent way.
 
-1. Mathematics uses itself to build new mathematics.
+5. It is possible for someone else to give you an incomplete description of a mathematical thought, from which you can reconstruct a complete description of the exact same mathematical thought.
 
-1.  Mathematics is immutable. Old mathematics is never destroyed unless it was wrong in the first place. Only new knowledge is added.
+6.  The origin of the mathematical universe is no less mysterious than the origin of the physical one.
 
-1.  Comparison to carpentry
+7. Mathematics is built, starting from its origin, using only mathematics itself.
 
-    a. Using mathematics to create new knowledge that lies outside mathematics is analogous to a carpenter using their tools and skills to build beautiful and often functional objects.
+8.  Mathematics is immutable. Old mathematics can never be destroyed or modified, unless it was wrong in the first place. Only new knowledge is added.
 
-    b. Using mathematics to create new mathematical knowledge is analogous to a carpenter using their tools and skills to build new tools and skills.
 
-1.  The origin of the mathematical universe is no less mysterious than the origin of the physical one.
+## Doing Mathematics
 
-## A Concrete Description of Mathematics
+1. Doing mathematics is messy, inelegant, and requires more than logic and abstraction.
 
-1. Doing mathematics is messy, inelegant, and often involves neither logical nor abstract.
+2. Creating and using mathematics involves conjectures, incomplete conjectures (where one cannot even state precisely what the assumptions or conclusions are), examples, counterexamples, aimless calculations and proofs, trial and error, and other inchoate expressions of as yet uncreated mathematics.
 
-1.  Mathematical knowledge is more than what can be derived from logic and abstraction.
-
-1.  Establishing new knowledge using only deductive logic and abstraction is the ultimate goal, but is only rarely achieved.
-
-1. Mathematics contains conjectures, incomplete conjectures (where one cannot even state precisely what the assumptions or conclusions are), examples, counterexamples, and other inchoate expressions of as yet uncreated mathematics.
+3. The goal of establishing new mathematics using only deductive logic and abstraction is only rarely achieved.
